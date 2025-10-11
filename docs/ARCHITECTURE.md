@@ -1,9 +1,9 @@
-# Arquitetura do Projeto Walleto
+# Arquitetura do Projeto granio
 
 ## Estrutura de Pastas
 
 ```
-walleto_nextjs_ts/
+granio_nextjs_ts/
 ├── src/
 │   ├── app/                    # App Router (Next.js 13+)
 │   │   ├── (auth)/            # Grupo de rotas de autenticação
